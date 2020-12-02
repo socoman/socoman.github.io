@@ -885,6 +885,7 @@ code {
   color: #aaa;
   font-size: 13px;
   text-transform: uppercase;
+  display: none;
 }
 #recent-post li:hover .item-thumbnail {
   opacity: 0.8;
@@ -1065,6 +1066,7 @@ a.article-title:hover {
   color: #006bde;
 }
 .article-meta {
+  display: none;
   line-height: 1.6em;
 }
 .article-meta:before,
